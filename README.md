@@ -86,7 +86,5 @@ pip install pandas numpy scikit-learn lightgbm xgboost catboost
 
 ## Notes
 
-- All deadlines are at 11:59 PM GMT+1 on the corresponding days
-- The competition organizers reserve the right to update the timeline if necessary
 - This implementation focuses on both accuracy and proper validation techniques
 - The model uses extensive feature engineering and a stacking ensemble approach for optimal performance
