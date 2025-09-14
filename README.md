@@ -80,7 +80,7 @@ pip install pandas numpy scikit-learn lightgbm xgboost catboost
 1. Ensure all CSV files (train.csv, test.csv, sample_submission.csv) are in the same directory as the Python script
 2. Run the script with:
    ```
-   python improved_pipeline.py
+   python car_price_prediction.py
    ```
 3. The script will generate a submission.csv file with predictions
 
